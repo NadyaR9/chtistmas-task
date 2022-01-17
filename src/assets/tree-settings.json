@@ -1,0 +1,5 @@
+{
+	"trees": ["./assets/tree/1.png", "./assets/tree/2.png", "./assets/tree/3.png", "./assets/tree/4.png"],
+	"bg": ["./assets/bg/1.jpg","./assets/bg/2.jpg","./assets/bg/3.jpg","./assets/bg/4.jpg","./assets/bg/5.jpg","./assets/bg/6.jpg","./assets/bg/7.jpg","./assets/bg/8.jpg"],
+	"lights": ["red", "white", "blue", "yellow", "mix"]
+}

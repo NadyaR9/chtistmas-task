@@ -1,0 +1,602 @@
+[
+  {
+    "num": "1",
+    "name": "Большой шар с рисунком",
+    "count": "2",
+    "year": "1960",
+    "shape": "шар",
+    "color": "yellow",
+    "size": "большой",
+    "favourite": true
+  },
+  {
+    "num": "2",
+    "name": "Зелёный шар с цветами",
+    "count": "5",
+    "year": "2000",
+    "shape": "шар",
+    "color": "green",
+    "size": "большой",
+    "favourite": false
+  },
+  {
+    "num": "3",
+    "name": "Красный матовый шар",
+    "count": "3",
+    "year": "1990",
+    "shape": "шар",
+    "color": "red",
+    "size": "большой",
+    "favourite": false
+  },
+  {
+    "num": "4",
+    "name": "Сосулька красная",
+    "count": "2",
+    "year": "1980",
+    "shape": "фигурка",
+    "color": "red",
+    "size": "большой",
+    "favourite": false
+  },
+  {
+    "num": "5",
+    "name": "Красный виноград",
+    "count": "4",
+    "year": "1980",
+    "shape": "фигурка",
+    "color": "red",
+    "size": "средний",
+    "favourite": true
+  },
+  {
+    "num": "6",
+    "name": "Красный шар с рисунком",
+    "count": "6",
+    "year": "2010",
+    "shape": "шар",
+    "color": "red",
+    "size": "большой",
+    "favourite": false
+  },
+  {
+    "num": "7",
+    "name": "Молочно-white шар",
+    "count": "12",
+    "year": "1960",
+    "shape": "шар",
+    "color": "white",
+    "size": "средний",
+    "favourite": true
+  },
+  {
+    "num": "8",
+    "name": "Красный шар",
+    "count": "10",
+    "year": "2010",
+    "shape": "шар",
+    "color": "red",
+    "size": "большой",
+    "favourite": false
+  },
+  {
+    "num": "9",
+    "name": "Колокол старинный",
+    "count": "2",
+    "year": "1950",
+    "shape": "колокол",
+    "color": "white",
+    "size": "большой",
+    "favourite": false
+  },
+  {
+    "num": "10",
+    "name": "Белый шар ретро",
+    "count": "7",
+    "year": "1960",
+    "shape": "шар",
+    "color": "white",
+    "size": "большой",
+    "favourite": false
+  },
+  {
+    "num": "11",
+    "name": "Шишка еловая белая",
+    "count": "11",
+    "year": "1960",
+    "shape": "шишка",
+    "color": "white",
+    "size": "малый",
+    "favourite": false
+  },
+  {
+    "num": "12",
+    "name": "Белый шар с цветами",
+    "count": "5",
+    "year": "1980",
+    "shape": "шар",
+    "color": "white",
+    "size": "большой",
+    "favourite": false
+  },
+  {
+    "num": "13",
+    "name": "Шар расписной Река",
+    "count": "3",
+    "year": "1970",
+    "shape": "шар",
+    "color": "blue",
+    "size": "большой",
+    "favourite": true
+  },
+  {
+    "num": "14",
+    "name": "Шар расписной Деревня",
+    "count": "4",
+    "year": "1970",
+    "shape": "шар",
+    "color": "blue",
+    "size": "большой",
+    "favourite": true
+  },
+  {
+    "num": "15",
+    "name": "Колокол расписной",
+    "count": "3",
+    "year": "1970",
+    "shape": "колокол",
+    "color": "blue",
+    "size": "средний",
+    "favourite": false
+  },
+  {
+    "num": "16",
+    "name": "Шишка расписная Пейзаж",
+    "count": "3",
+    "year": "1970",
+    "shape": "шишка",
+    "color": "blue",
+    "size": "средний",
+    "favourite": true
+  },
+  {
+    "num": "17",
+    "name": "Шишка расписная",
+    "count": "7",
+    "year": "1970",
+    "shape": "шишка",
+    "color": "red",
+    "size": "средний",
+    "favourite": false
+  },
+  {
+    "num": "18",
+    "name": "Желтый шар с бантом",
+    "count": "2",
+    "year": "2010",
+    "shape": "шар",
+    "color": "yellow",
+    "size": "большой",
+    "favourite": false
+  },
+  {
+    "num": "19",
+    "name": "Желтый шар с паетками",
+    "count": "12",
+    "year": "1980",
+    "shape": "шар",
+    "color": "yellow",
+    "size": "большой",
+    "favourite": false
+  },
+  {
+    "num": "20",
+    "name": "Красный шар с бантом",
+    "count": "8",
+    "year": "1950",
+    "shape": "шар",
+    "color": "red",
+    "size": "средний",
+    "favourite": true
+  },
+  {
+    "num": "21",
+    "name": "Красный шар с звёздами",
+    "count": "4",
+    "year": "1970",
+    "shape": "шар",
+    "color": "red",
+    "size": "большой",
+    "favourite": true
+  },
+  {
+    "num": "22",
+    "name": "Шишка еловая золотая",
+    "count": "11",
+    "year": "1990",
+    "shape": "шишка",
+    "color": "yellow",
+    "size": "малый",
+    "favourite": false
+  },
+  {
+    "num": "23",
+    "name": "Колокол старинный",
+    "count": "9",
+    "year": "1950",
+    "shape": "колокол",
+    "color": "yellow",
+    "size": "большой",
+    "favourite": false
+  },
+  {
+    "num": "24",
+    "name": "Снежинка изящная",
+    "count": "1",
+    "year": "1940",
+    "shape": "снежинка",
+    "color": "white",
+    "size": "большой",
+    "favourite": false
+  },
+  {
+    "num": "25",
+    "name": "Розовый шар с блёстками",
+    "count": "12",
+    "year": "2010",
+    "shape": "шар",
+    "color": "red",
+    "size": "большой",
+    "favourite": false
+  },
+  {
+    "num": "26",
+    "name": "Рубиново-золотой шар",
+    "count": "8",
+    "year": "1960",
+    "shape": "шар",
+    "color": "yellow",
+    "size": "большой",
+    "favourite": false
+  },
+  {
+    "num": "27",
+    "name": "Красный шар с узором",
+    "count": "4",
+    "year": "2010",
+    "shape": "шар",
+    "color": "red",
+    "size": "большой",
+    "favourite": false
+  },
+  {
+    "num": "28",
+    "name": "Бордовый шар с узором",
+    "count": "10",
+    "year": "2010",
+    "shape": "шар",
+    "color": "red",
+    "size": "большой",
+    "favourite": false
+  },
+  {
+    "num": "29",
+    "name": "Старинный шар с цветами",
+    "count": "5",
+    "year": "1950",
+    "shape": "шар",
+    "color": "yellow",
+    "size": "большой",
+    "favourite": true
+  },
+  {
+    "num": "30",
+    "name": "Старинный шар с узором",
+    "count": "8",
+    "year": "1950",
+    "shape": "шар",
+    "color": "yellow",
+    "size": "большой",
+    "favourite": true
+  },
+  {
+    "num": "31",
+    "name": "Красный шар с блёстками",
+    "count": "8",
+    "year": "2010",
+    "shape": "шар",
+    "color": "red",
+    "size": "большой",
+    "favourite": false
+  },
+  {
+    "num": "32",
+    "name": "Синий шар Вселенная",
+    "count": "11",
+    "year": "1970",
+    "shape": "шар",
+    "color": "blue",
+    "size": "большой",
+    "favourite": false
+  },
+  {
+    "num": "33",
+    "name": "Синий шар со снежинкой",
+    "count": "6",
+    "year": "2010",
+    "shape": "шар",
+    "color": "blue",
+    "size": "средний",
+    "favourite": false
+  },
+  {
+    "num": "34",
+    "name": "Зелёный  шар с узором",
+    "count": "8",
+    "year": "2010",
+    "shape": "шар",
+    "color": "green",
+    "size": "большой",
+    "favourite": false
+  },
+  {
+    "num": "35",
+    "name": "Фигурка Лис в шарфе",
+    "count": "8",
+    "year": "1950",
+    "shape": "фигурка",
+    "color": "yellow",
+    "size": "средний",
+    "favourite": true
+  },
+  {
+    "num": "36",
+    "name": "Сиреневый шар Метель",
+    "count": "1",
+    "year": "2000",
+    "shape": "шар",
+    "color": "blue",
+    "size": "большой",
+    "favourite": false
+  },
+  {
+    "num": "37",
+    "name": "Зелёный  шар Метель",
+    "count": "6",
+    "year": "2000",
+    "shape": "шар",
+    "color": "green",
+    "size": "большой",
+    "favourite": false
+  },
+  {
+    "num": "38",
+    "name": "Голубой  шар Метель",
+    "count": "6",
+    "year": "2000",
+    "shape": "шар",
+    "color": "blue",
+    "size": "большой",
+    "favourite": false
+  },
+  {
+    "num": "39",
+    "name": "Красная снежинка",
+    "count": "6",
+    "year": "1990",
+    "shape": "снежинка",
+    "color": "red",
+    "size": "большой",
+    "favourite": false
+  },
+  {
+    "num": "40",
+    "name": "Снежинка золотая",
+    "count": "12",
+    "year": "2020",
+    "shape": "снежинка",
+    "color": "yellow",
+    "size": "большой",
+    "favourite": false
+  },
+  {
+    "num": "41",
+    "name": "Снежинка арктическая",
+    "count": "11",
+    "year": "2020",
+    "shape": "снежинка",
+    "color": "white",
+    "size": "большой",
+    "favourite": false
+  },
+  {
+    "num": "42",
+    "name": "Зелёный шар",
+    "count": "10",
+    "year": "1980",
+    "shape": "шар",
+    "color": "green",
+    "size": "средний",
+    "favourite": false
+  },
+  {
+    "num": "43",
+    "name": "Снежинка двухцветная",
+    "count": "6",
+    "year": "1960",
+    "shape": "снежинка",
+    "color": "red",
+    "size": "большой",
+    "favourite": false
+  },
+  {
+    "num": "44",
+    "name": "Фигурка Ангела",
+    "count": "11",
+    "year": "1940",
+    "shape": "фигурка",
+    "color": "red",
+    "size": "средний",
+    "favourite": true
+  },
+  {
+    "num": "45",
+    "name": "Снежинка новогодняя",
+    "count": "1",
+    "year": "1980",
+    "shape": "снежинка",
+    "color": "white",
+    "size": "большой",
+    "favourite": false
+  },
+  {
+    "num": "46",
+    "name": "Фигурка Мухомор",
+    "count": "10",
+    "year": "1950",
+    "shape": "фигурка",
+    "color": "red",
+    "size": "малый",
+    "favourite": false
+  },
+  {
+    "num": "47",
+    "name": "Фигурка Колодец",
+    "count": "6",
+    "year": "1950",
+    "shape": "фигурка",
+    "color": "red",
+    "size": "малый",
+    "favourite": false
+  },
+  {
+    "num": "48",
+    "name": "Желтый шар с бантом",
+    "count": "6",
+    "year": "1960",
+    "shape": "шар",
+    "color": "yellow",
+    "size": "большой",
+    "favourite": false
+  },
+  {
+    "num": "49",
+    "name": "Снежинка с бирюзой",
+    "count": "4",
+    "year": "1980",
+    "shape": "снежинка",
+    "color": "yellow",
+    "size": "большой",
+    "favourite": false
+  },
+  {
+    "num": "50",
+    "name": "Колокол большой",
+    "count": "3",
+    "year": "2020",
+    "shape": "колокол",
+    "color": "red",
+    "size": "большой",
+    "favourite": false
+  },
+  {
+    "num": "51",
+    "name": "Шишка с изморозью",
+    "count": "12",
+    "year": "1970",
+    "shape": "шишка",
+    "color": "red",
+    "size": "малый",
+    "favourite": false
+  },
+  {
+    "num": "52",
+    "name": "Красный шар с надписью",
+    "count": "12",
+    "year": "1990",
+    "shape": "шар",
+    "color": "red",
+    "size": "большой",
+    "favourite": true
+  },
+  {
+    "num": "53",
+    "name": "Снежинка серебристая",
+    "count": "6",
+    "year": "2020",
+    "shape": "снежинка",
+    "color": "white",
+    "size": "большой",
+    "favourite": false
+  },
+  {
+    "num": "54",
+    "name": "Зелёный шар с рисунком",
+    "count": "6",
+    "year": "2010",
+    "shape": "шар",
+    "color": "green",
+    "size": "большой",
+    "favourite": false
+  },
+  {
+    "num": "55",
+    "name": "Пряничный домик",
+    "count": "1",
+    "year": "1940",
+    "shape": "фигурка",
+    "color": "yellow",
+    "size": "большой",
+    "favourite": false
+  },
+  {
+    "num": "56",
+    "name": "Пряничный теремок",
+    "count": "1",
+    "year": "1940",
+    "shape": "фигурка",
+    "color": "yellow",
+    "size": "малый",
+    "favourite": false
+  },
+  {
+    "num": "57",
+    "name": "Пряничная избушка",
+    "count": "1",
+    "year": "1940",
+    "shape": "фигурка",
+    "color": "yellow",
+    "size": "средний",
+    "favourite": false
+  },
+  {
+    "num": "58",
+    "name": "Фигурка белого медведя",
+    "count": "2",
+    "year": "1980",
+    "shape": "фигурка",
+    "color": "white",
+    "size": "средний",
+    "favourite": false
+  },
+  {
+    "num": "59",
+    "name": "Желтый шар с надписью",
+    "count": "10",
+    "year": "1990",
+    "shape": "шар",
+    "color": "yellow",
+    "size": "средний",
+    "favourite": false
+  },
+  {
+    "num": "60",
+    "name": "Фигурка Голубь",
+    "count": "12",
+    "year": "1940",
+    "shape": "фигурка",
+    "color": "white",
+    "size": "средний",
+    "favourite": true
+  }
+]
