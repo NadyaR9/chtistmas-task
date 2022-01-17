@@ -1,1 +1,0 @@
-export { Firs } from './Firs';
